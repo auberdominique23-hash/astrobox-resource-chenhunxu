@@ -1,0 +1,46 @@
+{
+  "downloads": {
+    "xmb10": {
+      "file_name": "downloads/试用版chenhunxu.bin",
+      "sha256": "6f32d45e783b9e20147116a8e4c1add6dd0d9a347ac7055125172f3a652ac8bb",
+      "version": "",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "file_name": "downloads/试用版chenhunxu.bin",
+      "sha256": "6f32d45e783b9e20147116a8e4c1add6dd0d9a347ac7055125172f3a652ac8bb",
+      "version": "",
+      "versionCode": 65536
+    }
+  },
+  "ext": {},
+  "item": {
+    "author": [
+      {
+        "bindABAccount": true,
+        "name": "AuberDominique"
+      }
+    ],
+    "cover": "media/cover.webp",
+    "description": "表盘特点\n\n·极简息屏\n\n·有序的组件排布\n\n·9钟时间段背景自动更换\n\n·独特日光配色\n\n#一次购买多次更新",
+    "icon": "media/icon.webp",
+    "id": "12312312323",
+    "name": "晨昏序 － 腕上天文观测表盘",
+    "preview": [
+      "media/cover.webp"
+    ],
+    "restype": "watchface"
+  },
+  "links": [
+    {
+      "icon": "coins",
+      "title": "购买链接",
+      "url": "https://afdian.com/item/e6e6fc06db1f11f19faa5254001e7c00"
+    },
+    {
+      "icon": "Link",
+      "title": "爱发电购买链接",
+      "url": "https://afdian.com/item/e6e6fc06db1f11f19faa5254001e7c00"
+    }
+  ]
+}
